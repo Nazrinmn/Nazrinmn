@@ -1,6 +1,6 @@
 ## Hi there, I'm Nazrin! 
 
-I am an Electronics Engineering student specializing in **VLSI Design & Technology** with a strong passion for **Data Science, Analytics, and AI**. I love bridging the gap between cutting-edge software algorithms (like Machine Learning models) and hardware execution architectures (like FPGAs and SoC platforms).
+I am an Electronics Engineering student specializing in **VLSI Design & Technology** with a strong passion for **Data Science, Analytics, and AI**. I like bridging the gap between cutting-edge software algorithms (like Machine Learning models) and hardware execution architectures (like FPGAs and SoC platforms).
 
 ---
 
