@@ -6,7 +6,7 @@ I am an Electronics Engineering student specializing in **VLSI Design & Technolo
 
 ### 🛠️ Tech Stack & Tools
 
-- **Hardware & VLSI Architecture:** Verilog, Vivado, LTspice, Artix-7 FPGA, Pynq-Z2 (Zynq-7020)
+- **Hardware & VLSI Architecture:** Verilog, Vivado, LTspice, Artix-7 FPGA.
 - **Data Science & AI:** Python, PyTorch, Data Analytics, Time Series Forecasting, Machine Learning (CNNs)
 - **Embedded Systems & Analog Simulation:** 8051 Microcontroller, Assembly/C, Proteus, LTspice, Keil uVision
 - **Core Skills:** Competitive Programming, Data Structures & Algorithms (DSA), Digital Logic Design
